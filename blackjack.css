@@ -1,0 +1,22 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  background-color: rgb(23, 87, 3);
+  }
+
+  .black-jack{
+    color: goldenrod;
+  }
+
+  p{
+    color: white;  
+  }
+  button{
+    background-color: gold;
+    color:green;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+  }
